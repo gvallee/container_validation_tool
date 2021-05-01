@@ -1,0 +1,13 @@
+github.com/gvallee/go_exec v0.0.2/go.mod h1:b8ZYmmYCaHo/g92ZHvYK8LnTp06sdTU3u2CjisIyA9w=
+github.com/gvallee/go_exec v0.0.4 h1:6xJ9iMMGP7gWFLWET6XpIdzov/9SqpZ9zpjHczSH24Q=
+github.com/gvallee/go_exec v0.0.4/go.mod h1:4AwegK9oPhkgwkd0rjlTwxRw//8cW4pPcCSFLZ6+LZg=
+github.com/gvallee/go_hpc_jobmgr v0.0.10 h1:ovSITVsHpLnqs6PoAGdgY53Dxg+/IFHQ49bx7JGI9gc=
+github.com/gvallee/go_hpc_jobmgr v0.0.10/go.mod h1:lP+cam56d8Tt2BIU4RjRsy+vxcvkr08xUPI1iZAp8oA=
+github.com/gvallee/go_util v1.0.0/go.mod h1:fTexpwdH/n05Ziu0TXJIQsr7E+46QpBxNdeOOsyC0/s=
+github.com/gvallee/go_util v1.0.1/go.mod h1:fTexpwdH/n05Ziu0TXJIQsr7E+46QpBxNdeOOsyC0/s=
+github.com/gvallee/go_util v1.1.0 h1:qSwjCPTejJ8zbhFmpJ3WQtzpNOHWQwc4ijFsTbCJK7s=
+github.com/gvallee/go_util v1.1.0/go.mod h1:fTexpwdH/n05Ziu0TXJIQsr7E+46QpBxNdeOOsyC0/s=
+github.com/gvallee/kv v1.0.0 h1:QE3Ua8JewroqJqc+J9RWtL7KUu7rQmfLfxlBVY5t1ko=
+github.com/gvallee/kv v1.0.0/go.mod h1:sfSclfFfLV+Y+9e9FayIbBUOtvbt1779S6q52bSSU5E=
+github.com/sylabs/singularity-mpi v1.2.2 h1:qnGS5228lqNM3mG7X+/7Sd44fSgiavhgjvXIs2lSJ80=
+github.com/sylabs/singularity-mpi v1.2.2/go.mod h1:drvCxAHw6GUmtBLG4luqkjHYmABUTlWbCk4Ff1GoiFc=
